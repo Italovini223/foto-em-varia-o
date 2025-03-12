@@ -31,4 +31,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LIC
 
 ## Autor
 
-Seu Nome
+Italo Vinicus de Bessa
