@@ -1,12 +1,16 @@
 {
     "name": "foto-em-variacao",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Uma biblioteca para adicionar imagens em variações de produtos.",
     "main": "dist/foto-em-variacao.min.js",
     "module": "src/index.js",
     "scripts": {
         "build": "webpack --mode production",
         "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seu-usuario/foto-em-variacao.git"
     },
     "keywords": [
         "foto",
